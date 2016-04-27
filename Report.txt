@@ -1,7 +1,7 @@
 
 Recommendations for project approach
 
-The study case 3 has shown a trend of expanding the work force up up to 45-50 people with a long estimated project duration for 2 years, so that this project is likely to receive many changes and will possibly have new requirements. This means they will need an approach that falls under an agile methodology. Hence we recommend the software team to use Scrum.
+The study case 3 has shown a trend of expanding the work force up up to 45-50 people with a long estimated project duration for 2 years, so that this project is likely to receive many changes and will possibly have new requirements. This means they will need an approach that falls under an Agile methodology rather than Waterfal methodology. Hence we recommend the software team to use Scrum approach.
 
 
 Why Scrum is suitable for this project
