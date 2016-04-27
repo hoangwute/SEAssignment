@@ -10,4 +10,6 @@ Offline capability: developers work locally most of the time without network acc
 Maintainability: restructuring can be done on a copy repository before being trainsmitted to the original repository.
 There are so many reasons and advantages of using GitHub to develop software. This regards to project communication and collaboration, project tracking and quality assuarance. Therefore, the capability of using GitHub should be compulsory for any developers thus this could be a challenge for the firm. However, GitHub has a friendly design and easy to begin with. With a proper learning session, the organization can quickly upskill its developers.
 
+Slack: we will use Slack as our online communication tool, all of team members are in the team called "superA". We an have group or one to one chat in Slack. most of the communications between team members and client will be there.
 
+Email and phone: These two are not our prior communication tools but they can be used in certain situation. For example, we will call any team members when have urgent problems need to ask, but most of the time we will use Slack to communicate.
