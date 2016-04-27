@@ -16,7 +16,7 @@ Benefit of Slack:
 - Can be used in any flatform: whenever you go, Slack can be used on mobile apps for Ios, Android and Windows phone. Slack
 also offer for desktop: Mac, Window and Linux
 - Price: Slack is a free to use forever communition tool.
-- Integration: Slack offers built-in integrations with over 60 partner such as Github, Google Drive, Trello, Twitter, and so on so that the team member can pull any information from outside tools into Slack in a way that timely, relevant and searchale.
+- Integration: Slack offers built-in integrations with over 60 partner such as Github, Google Drive, Trello, Twitter, and so on, so that the team member can pull any information from outside tools into Slack in a way that timely, relevant and searchale.
 - Share-able: Slack allow to share any type of files(image, documents, PDF, spreadsheet, your files), even those stored outside of the solution itself.
 - Direct message to anyone. 
 - Private channels: Slack also have invite-only channels feature for users who need privacy.
