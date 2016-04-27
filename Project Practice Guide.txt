@@ -70,7 +70,7 @@ o	The needs of skilled people: writing automate tests are not an easy task. Soft
 	
 •	Usability testing: Evaluating the usability of the software product is very important at the end of software development process. The advantage of this testing is that it will help the users satisfy when using the software, ensure no failure at perfoming any task by users and enhance users experience. The software team will gather some participants act as users to perfome some required tasks that are belived to be critical software activities. If the users complain "cant" or "wont" do the task correctly, they need to find the solution to that problem, and test the new design with users again to make sure it satisfy them before releasing final product to the market.
 
-
+Quality assurance checklist:We have created a checklist to ensure quality for every deliverable. This is to make sure nothing is overlooked and the project retains quality for all deliverables. Here is a sample of the checklist per deliverable:-Process/Deliverable-Quality Planning-Quality Checking-Quality Improvement-Should we stop doing this?(reason why?)
         References
         http://www.oracle.com/webfolder/ux/applications/uxd/assets/faq/how-to-conduct-usability-testing.pdf
         
