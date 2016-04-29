@@ -1,14 +1,22 @@
 
 Recommendations for project approach
 
-The study case 3 has shown a trend of expanding the work force up up to 45-50 people with a long estimated project duration for 2 years, so that this project is likely to receive many changes and will possibly have new requirements. This means they will need an approach that falls under an Agile methodology rather than Waterfal methodology. Hence we recommend the software team to use Scrum approach which is well known as popular agile method.
+Introduction
+
+The project that we choose for our software engineering pratice is the study case 3. A small independent game development company with current work force of 4 has received some startup funding to develop a multiplayer interative game software. The company will expanding the work force up up to 45-50 people with an estimated project duration for 2 years to make the game into reality. From our understanding, this project is likely to receive many changes and will possibly have new requirements in the long run. This means they will need an approach that falls under an Agile methodology. Hence we recommend the software team to use Scrum approach.
 
 
 Why Scrum is suitable for this project
-- This case study is in long 2 years duration, its believed that the project is complicated in some areas such as scaling up the team to make the game app into reality, and manage the team’s framework of 45-50 people so many changes and challenges may happens which is unclear how to deal with at the beginning of the project.
-- The project requirements aren’t 100% set in stone and are open to some change, Scrum enable the team to adapt to changing project requirements.
-- Scrum provides constant check-ins and allows members to more accurately gauge progress and offer useful feedback.
-- Scrum allows the team to plan for each sprint without external contribution involved. We believed its essential for this case study 3 because its a small game startup company means they has to do the work themself. Scrum also permits self-sufficient among team members. This is very important in a team that is unfamiliar with each other such as this case 3. 
+
+- This case study is 2 years duration, also the project is complicated in some areas such as scaling up the team, and manage the team’s framework of 45-50 people which may arrise may challenges and changes. So Scrum is the best solution for those project that has no clear picture of the entire process will be like at the early stage of development.
+
+- The project requirements aren’t 100% set in stone and are open to some change, Scrum enable the team to adapt to changing project requirements without effect the entire project plan.
+
+- Scrum provides constant check-ins and allows members to more accurately gauge progress and offer useful feedback in each sprint.
+
+- Scrum allows the team to plan for each sprint without external contribution involved. We believed its essential for this case study 3 because its a small game startup company means they has to do the work themself. Scrum also permits sufficient among team members. This is very important in a team that is unfamiliar with each other such as this case 3. 
+
+How Scrum will work in this project
 
 
 
