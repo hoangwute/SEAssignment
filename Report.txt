@@ -3,7 +3,7 @@ Recommendations for project approach
 
 Introduction
 
-The project that we choose for our software engineering pratice is the study case 3. A small independent game development company with current work force of 4 has received some startup funding to develop a multiplayer interative game software. The company will expanding the work force up up to 45-50 people with an estimated project duration for 2 years to make the game into reality. From our understanding, this project is likely to receive many changes and will possibly have new requirements in the long run. This means they will need an approach that falls under an Agile methodology. Hence we recommend the software team to use Scrum approach.
+The project that we choose for our software engineering pratice is the study case 3. A small independent game development company with current work force of 4 has received some startup funding to develop a multiplayer interative game software. The company will expand the work force up to 45-50 people with an estimated project duration for 2 years to make the game into reality. From our understanding, this project is likely to receive many changes and will possibly have new requirements in the long run. This means they will need an approach that falls under an Agile methodology. Hence we recommend the software team to use Scrum approach.
 
 
 Why Scrum is suitable for this project
