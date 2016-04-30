@@ -40,6 +40,22 @@ Email and phone: These two are not prior communication tools but they can be use
 Reference:
 https://slack.com/
 
+FindBugs
+FindBugs is a popular static analysis tool, what make it stands out from other prominent tools is its tendency to reduce the number of false positive warnings as many as possible. FindBugs is capable of finding over 400 possible bugs, they are classifed into 8 different categories: ‘Bad Practice’, ‘Correctness’, ‘Internationalization’, ‘Malicious Code Vulnerability’, ‘Multi-threaded Correctness’, ‘Performance’, ‘Security’ and ‘Dodgy Code’. Additionally, each warning is also prioritized based on how confident FindBugs is to determine whether the warning is in fact a bug. (Khalid, Nagappan, & Hassan, 2015)
+Benefits
+FindBugs can improve code quality since it does not only catch bugs but also bad programming practices. It makes your code looks more discipline and elegant which result in better code review and code reusability.
+FindBugs can detects over 400 different type of possible bugs and categorize it into different classes. It also provides good reasoning of why the bug is harmful when examining code.
+FindBugs often finds real defects which equivalent to encounter a low number of false positives rate. It proves that this software is legit to find valid bugs.
+FindBugs runs fast and efficient as it scan byte code for bug pattern to find defects.
+FindBugs support plugin for many Integrated Development Environment (IDE) such as Eclipse, Netbeans, Maven, Jenkins, Hudson and IntelliJ.
+FindBugs is free and continously updated and released new version by the developers. The software is generally always up-to-date and still has lots of potential in the future.
+However, since this software is free. It has some drawbacks compares to its competitors:
+FindBugs needs compiled code.
+Not all bugs found will be real bugs as even FindBugs has a high rate of finding real defects, the chance of catching  false positives is still there.
+No quick fixing feature for common bugs found. This can make its easier and more convenient to use FindBugs.
+As a quality assurance tool, FindBugs generally has its job done. It does not only assist developers in finding bugs but at the same time increases developers coding skills by reviewing the mistake has been made. We recommend the developers of the project to use FindBugs, it is free and compatible with most IDEs. 
+
+
 
 >>>>>>> 1f2238398022a0080900c1d44affb02d4062abd1
 
