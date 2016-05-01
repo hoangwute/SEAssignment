@@ -16,7 +16,12 @@ Why Scrum is suitable for this project
 
 - Scrum allows the team to plan themself for each sprint without external contribution involved. We believed its essential for this case study 3 because its a small game startup company means they has to do the work themself. Scrum also permits sufficient among team members. This is very important in a team that is unfamiliar with each other such as this case 3. 
 
-How Scrum will work in this project
+How Scrum will work in this project ( refer to Project Practice Guidline) Link: ...
+Tools needed ( refer to Project Practice tool) Link: ...
+
+Solution for this project:
+
+Scalling:  
 
 
 
