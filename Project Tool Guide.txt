@@ -55,13 +55,7 @@ Not all bugs found will be real bugs as even FindBugs has a high rate of finding
 No quick fixing feature for common bugs found. This can make its easier and more convenient to use FindBugs.
 As a quality assurance tool, FindBugs generally has its job done. It does not only assist developers in finding bugs but at the same time increases developers coding skills by reviewing the mistake has been made. We recommend the developers of the project to use FindBugs, it is free and compatible with most IDEs. 
 
-Trello
-Trello is a collaboration tool that organises projects into boards. By one glance, Trello tells you what's being worked on, who's working on what, and where something is in a process. Trello currently can be used in most of the flatforms such as Android, IOS and Windows. There are 3 terms that users that to understand when start to use Trello:
--Board: first of all, they team need to create one board for their project. For example: "SuperA" board for this assignment
--List: represent a stage or a process of a board. For example, " SuperA" board can have 3 list: "do", "doing" and "done". The team can define what user stoies the list can contain in this case.
--Card: each card simple contains one user stories. It will tell who is doing this card and assign priority for each one.
-Benefits of Using Trello:
- its an online tool that every one in a team can manage to keep track and update the project process easily and efficiently.    
+    
 
 
 >>>>>>> 1f2238398022a0080900c1d44affb02d4062abd1
