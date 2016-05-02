@@ -28,7 +28,7 @@ Important notices:
 
 -Communication on this large project will take two levels: 
 First level is team's daily stand-up meeting, refered as daily Scrum.
-Second level of communication is that daily meeting of between the clients of each assigned team, the architecturers of each team,and database analysist of each team, in order to ensure teams can work independently while still creatinng intergated solution for entire project.
+Second level of communication is that daily meeting of between the clients of each assigned team, the architecturers of each team,and database analysist of each team,and so on in order to ensure teams can work independently while still creatinng intergated solution for entire project.
 
 
 
