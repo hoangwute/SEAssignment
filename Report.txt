@@ -8,7 +8,7 @@ The project that we choose for our software engineering pratice is the study cas
 
 Why Scrum is suitable for this project
 
-- This case study is 2 years duration, also the project is complicated in some areas such as scaling up the team, and manage the team’s framework of 45-50 people which may arrise may challenges and changes. So Scrum is the best solution for those project that has no clear picture of the entire process will be like at the early stage of development.
+- This case study is 2 years duration, also the project is complicated in some areas such as scaling up the team, and manage the team’s framework of 45-50 people which may arrise challenges and changes. So Scrum is the best solution for those project that has no clear picture of the entire process will be like at the early stage of development.
 
 - The project requirements aren’t 100% set in stone and are open to some change, Scrum enable the team to adapt to changing project requirements without effect the entire project plan.
 
@@ -16,14 +16,26 @@ Why Scrum is suitable for this project
 
 - Scrum allows the team to plan themself for each sprint without external contribution involved. We believed its essential for this case study 3 because its a small game startup company means they has to do the work themself. Scrum also permits sufficient among team members. This is very important in a team that is unfamiliar with each other such as this case 3. 
 
-How Scrum will work in this project ( refer to Project Practice Guidline) Link: ...
-Tools needed ( refer to Project Practice tool) Link: ...
-
-Solution for this project:
-
-Scalling:  
 
 
+How to manage this project.
+
+As we know managing a large project of 50 people will require different management approach of agile methodology. We cannot simply use the same agile process managing project of 10 people to 50-people project, because it is too complex to manage one team of 50 people. Therefore, we suggest that this project can be reorganize into 5 10-person agile teams, and each of these team can run effectively using scrum approach.
+
+Important notices:
+-Each team has their own skilled staffs who capable of complete a sprint themselves means each team can work dependently as a small agile team. 
+
+-Communication on this large project will take two levels: First is team's daily stand-up meeting. Second level of communication is that daily meeting of between clients of each assigned team, the architecturers of each team, or DBA of each team in order to ensure teams can work independently while still creating an integrated solution for entire project.
+
+
+
+
+How to use Scrum approach ( refer to Project Practice Guidline) Link: https://
+Tools needed ( refer to Project Practice tool) Link: https://
+
+Terms of reference:
+http://www.ambysoft.com/essays/agileRoles.html
+http://www.lifecyclestep.com/browse/463.0.2SizeofAgileTeam.htm
 
 
 
