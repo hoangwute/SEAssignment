@@ -20,12 +20,15 @@ Why Scrum is suitable for this project
 
 How to manage this project.
 
-As we know managing a large project of 50 people will require different management approach of agile methodology. We cannot simply use the same agile process managing project of 10 people to 50-people project, because it is too complex to manage one team of 50 people. Therefore, we suggest that this project can be reorganize into 5 10-person agile teams, and each of these team can run effectively using scrum approach.
+As we know managing a large project of 50 people will require different management approach of agile methodology. We cannot simply use the same agile process managing project of 10 people for 50-people project, it will gradually fail due to complexity to manage one  whole team of 50 people. Therefore, we suggest that this project can be reorganize into 5 
+10-person agile teams, and each of these team can run effectively using scrum approach.
 
 Important notices:
 -Each team has their own skilled staffs who capable of complete a sprint themselves means each team can work dependently as a small agile team. 
 
--Communication on this large project will take two levels: First is team's daily stand-up meeting. Second level of communication is that daily meeting of between clients of each assigned team, the architecturers of each team, or DBA of each team in order to ensure teams can work independently while still creating an integrated solution for entire project.
+-Communication on this large project will take two levels: 
+First level is team's daily stand-up meeting, refered as daily Scrum.
+Second level of communication is that daily meeting of between the clients of each assigned team, the architecturers of each team,and database analysist of each team, in order to ensure teams can work independently while still creatinng intergated solution for entire project.
 
 
 
