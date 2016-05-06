@@ -18,7 +18,9 @@ Why Scrum is suitable for this project
 
 
 
-How to manage this project.
+Project Approach
+
+
 
 As we know managing a large project of 50 people will require different management approach of agile methodology. We cannot simply use the same agile process managing project of 10 people for 50-people project, it will gradually fail due to complexity to manage one  whole team of 50 people. Therefore, we suggest that this project can be reorganize into 5 
 10-person agile teams, and each of these team can run effectively using scrum approach.
