@@ -11,10 +11,10 @@ Maintainability: restructuring can be done on a copy repository before being tra
 There are so many reasons and advantages of using GitHub to develop software. This regards to project communication and collaboration, project tracking and quality assuarance. Therefore, the capability of using GitHub should be compulsory for any developers thus this could be a challenge for the firm. However, GitHub has a friendly design and easy to begin with. With a proper learning session, the organization can quickly upskill its developers.
 <<<<<<< HEAD
 Microsoft Project 2016
-Microsoft Project 2016 is the world’s most popular project management software which developed and sold by Microsoft. It is a tool widely used by project managers to sketch a project plan, tracking progress and assign resources to task. It also helps to manage the firm budgets. All 5 project management process groups can be effectively managed by using Microsoft Project.
+Microsoft Project 2016 is the worldâ€™s most popular project management software which developed and sold by Microsoft. It is a tool widely used by project managers to sketch a project plan, tracking progress and assign resources to task. It also helps to manage the firm budgets. All 5 project management process groups can be effectively managed by using Microsoft Project.
 Benefits
 Project Intiating: using resource sheet view in Microsoft Project, the project manager can easily make a list of people that are going to work for that project. Microsoft Project also assists in classifying different types of resources and assign distinct wages rates for every category. This process also aids the project cost estimation aspect as resources usage cost is a significant part of any project. 
-Project Planning: project manager can generate a project schedule using a Gantt Chart, tasks resource assigning is completed effortlessly by just a few clicks with the resouce sheet had been prepared. Another handy feature is Microsoft Project notifes users when there is an overlapping resouce assigned. Project plan is then visualized by switching to Network Diagram view. A critical path is automatically generated in Microsoft Project showing the path which the project can be finished in the shortest time. Total resource cost is also done following a Schedule Baseline. User can always come up to test different scenarios to find out what something more suitable by quickly modifying Microsoft Project features. This is called “what-ifs scenario”.
+Project Planning: project manager can generate a project schedule using a Gantt Chart, tasks resource assigning is completed effortlessly by just a few clicks with the resouce sheet had been prepared. Another handy feature is Microsoft Project notifes users when there is an overlapping resouce assigned. Project plan is then visualized by switching to Network Diagram view. A critical path is automatically generated in Microsoft Project showing the path which the project can be finished in the shortest time. Total resource cost is also done following a Schedule Baseline. User can always come up to test different scenarios to find out what something more suitable by quickly modifying Microsoft Project features. This is called â€œwhat-ifs scenarioâ€.
 Project Executing: with automatic scheduling feature, changes are relatively easy to be made in Microsoft Project as one modifed tasks leads to other automated correlatively changes. Therefore, required updateds and adjustments to the schedule, rescheduling uncompleted tasks are simple to be implemented.
 Project Monitoring & Controlling: tracking the project progress is obvious in Microsoft Project. All charts and diagrams are visualized and easy to switch views among them. Additionally, project milestones and deliverables are also specified regularly throughout the project.
 Project Closing: actual project works can be compared to what have been estimated and planned using Microsoft Project at this time. A lesson learned report can be drawn to identify what has gone well and what needs to be improved in later projects.
@@ -33,7 +33,7 @@ also offer for desktop: Mac, Window and Linux
 - Share-able: Slack allow to share any type of files(image, documents, PDF, spreadsheet, your files), even those stored outside of the solution itself.
 - Direct message to anyone. 
 - Private channels: Slack also have invite-only channels feature for users who need privacy.
-- Search feature: Slacks robust search functionality enables to find key information quickly, even if itâ€™s inside of a document the  user has shared
+- Search feature: Slacks robust search functionality enables to find key information quickly, even if itÃ¢â‚¬â„¢s inside of a document the  user has shared
 
 Email and phone: These two are not prior communication tools but they can be used in certain situation. For example, the team will call any team members when have urgent problems need to ask, but most of the time they will use Slack to communicate.
 
@@ -41,7 +41,7 @@ Reference:
 https://slack.com/
 
 FindBugs
-FindBugs is a popular static analysis tool, what make it stands out from other prominent tools is its tendency to reduce the number of false positive warnings as many as possible. FindBugs is capable of finding over 400 possible bugs, they are classifed into 8 different categories: ‘Bad Practice’, ‘Correctness’, ‘Internationalization’, ‘Malicious Code Vulnerability’, ‘Multi-threaded Correctness’, ‘Performance’, ‘Security’ and ‘Dodgy Code’. Additionally, each warning is also prioritized based on how confident FindBugs is to determine whether the warning is in fact a bug. (Khalid, Nagappan, & Hassan, 2015)
+FindBugs is a popular static analysis tool, what make it stands out from other prominent tools is its tendency to reduce the number of false positive warnings as many as possible. FindBugs is capable of finding over 400 possible bugs, they are classifed into 8 different categories: â€˜Bad Practiceâ€™, â€˜Correctnessâ€™, â€˜Internationalizationâ€™, â€˜Malicious Code Vulnerabilityâ€™, â€˜Multi-threaded Correctnessâ€™, â€˜Performanceâ€™, â€˜Securityâ€™ and â€˜Dodgy Codeâ€™. Additionally, each warning is also prioritized based on how confident FindBugs is to determine whether the warning is in fact a bug. (Khalid, Nagappan, & Hassan, 2015)
 Benefits
 FindBugs can improve code quality since it does not only catch bugs but also bad programming practices. It makes your code looks more discipline and elegant which result in better code review and code reusability.
 FindBugs can detects over 400 different type of possible bugs and categorize it into different classes. It also provides good reasoning of why the bug is harmful when examining code.
@@ -55,6 +55,7 @@ Not all bugs found will be real bugs as even FindBugs has a high rate of finding
 No quick fixing feature for common bugs found. This can make its easier and more convenient to use FindBugs.
 As a quality assurance tool, FindBugs generally has its job done. It does not only assist developers in finding bugs but at the same time increases developers coding skills by reviewing the mistake has been made. We recommend the developers of the project to use FindBugs, it is free and compatible with most IDEs. 
 
+    
 
 
 >>>>>>> 1f2238398022a0080900c1d44affb02d4062abd1
